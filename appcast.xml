@@ -3,6 +3,18 @@
     <channel>
         <title>ArenaDuel-NEW</title>
         <item>
+            <title>1.2</title>
+            <pubDate>Thu, 26 Nov 2026 14:59:28 +1100</pubDate>
+            <sparkle:version>3</sparkle:version>
+            <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-1.2-3.zip" length="4665267" type="application/octet-stream" sparkle:edSignature="jKA1UJo49h2GBw0HrHQXR1KIhIkQg0Lf1ZkkAtW3guKwX6fKjGFl0w77LoJ/7fooBXlrq9CWVwHqY4dV8l/HCQ=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW3-2.delta" sparkle:deltaFrom="2" length="69818" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="ZR/2+3TPSu31wApjCfy/eGm1MEh3Xvog2sIofO04cqdEWeMJkEubgUAKJ6u6r36FJQNlFn6j1T+oI93C563SCQ=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.1</title>
             <pubDate>Thu, 26 Nov 2026 14:56:41 +1100</pubDate>
             <sparkle:version>2</sparkle:version>
