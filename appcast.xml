@@ -3,6 +3,22 @@
     <channel>
         <title>ArenaDuel-NEW</title>
         <item>
+            <title>2.0</title>
+            <pubDate>Fri, 27 Nov 2026 20:07:57 +1100</pubDate>
+            <sparkle:version>11</sparkle:version>
+            <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-2.0-11.zip" length="4944707" type="application/octet-stream" sparkle:edSignature="L1uace/peJV90K706pCCfpjFfe+iKA7uepiJUqiU1kIRQSRbJK1Eb2AFHk2QccZlxfKPcFeJV/PgZ2Bgq1GjCg=="/>
+            <sparkle:deltas>
+                <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW11-10.delta" sparkle:deltaFrom="10" length="248178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C/jABm/ZLCjEkiZKqcL0+HvIobxOKyh26D/nRzkOYiY7m9M7W0qin+1C6PVfWMCRdkXLajEDz3hfg22VAkUWBw=="/>
+                <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW11-9.delta" sparkle:deltaFrom="9" length="314522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kDrsMMHDBZNATbeJQblcSD2txc3O2t9uy5NhWRIbwJ851elTFFZa6mbr8UUzP67YkpXVP5AKr97eiDI4V7g/BQ=="/>
+                <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW11-8.delta" sparkle:deltaFrom="8" length="314306" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="rEoARPMLMaGsAkf/zkp2im/1I7Jpdfp9ZHpqw5p15V6/isSwGZJA30wiC8zQ4i2KP2i89DuZq0XP6up1gBPICA=="/>
+                <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW11-7.delta" sparkle:deltaFrom="7" length="333470" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="jsgoGIiiVIhznSCMKMW5IqC9Kc8z6oha3Bf2KE/ROKXeODt1oMvS/n+9paKaZADWkL8umW4z0bILwxjYWZLhAw=="/>
+                <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW11-6.delta" sparkle:deltaFrom="6" length="406190" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="xhLD/LVbDTuDr2/N9oksVTp9yb9OmPF8uBablLH2YrqeDLAhojp8oXoFd1cl5QBuojoAkGePcpRwYPrQ5Eg1CA=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
             <title>1.9</title>
             <pubDate>Fri, 27 Nov 2026 15:04:49 +1100</pubDate>
             <sparkle:version>10</sparkle:version>
@@ -31,21 +47,6 @@
                 <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW9-7.delta" sparkle:deltaFrom="7" length="139730" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="a7MOHlUZvZOHfwtgXCrzl4wgoHSrdl55HCFGoBgx8zrHZmmgFn7JZxP+PV4NO3MvxRrPd3Bm3Yk5yzNXkb+nDQ=="/>
                 <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW9-5.delta" sparkle:deltaFrom="5" length="270946" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IfIpfx2KgrGLp1HaCF9cEfTPMCjlRENk8HlhDnMJcH5JHIfJ9yxnZie9pPhwyOAzueIyyxnCCPsiuBuFm5YZBg=="/>
                 <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW9-4.delta" sparkle:deltaFrom="4" length="330642" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="IPE5fj3+bjlaFKqTcRo1sD05FASuc5pQcNvkz18JR2EJrmE6KV/sJuErqOAWzOiBrdJe6rlF/VtJkqVBpaP+CA=="/>
-            </sparkle:deltas>
-        </item>
-        <item>
-            <title>1.7</title>
-            <pubDate>Fri, 27 Nov 2026 14:51:13 +1100</pubDate>
-            <sparkle:version>8</sparkle:version>
-            <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
-            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-1.7-8.zip" length="4833930" type="application/octet-stream" sparkle:edSignature="tQMR/4rsVISG9qkXVam4/BrkyzadKskyeUN2JjENdWpt37gAiQA8VDdaQZ8QcKgpzOSEFzOZQvjiDf01n8qyCw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel8-7.delta" sparkle:deltaFrom="7" length="140066" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="G7vP+1s7e4fbrQ9Ek9r+iM+ImKQ1ZvOuxhNNzNxUCpnp5d+BXYXHdKmiq2aJULfAgGddTzlxVjqFQKZJP0WtBA=="/>
-                <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel8-5.delta" sparkle:deltaFrom="5" length="270690" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="MXCHeiuIauHF3bg4xTCE3lXGEJtKhCoz6ZbBi4s9daPJgzSdjA53Yx/6JLBTAazJ21Ok5o1jFcS2u6kFRcxaCA=="/>
-                <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel8-4.delta" sparkle:deltaFrom="4" length="330154" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="lUvs4eNQkTeht7M5+AO60ebuhkBATG1YqGd0qM7nWFunFaEhjOTeP0ZhC38uhu0iLc1nX+WyU97+mcLy84BXDQ=="/>
-                <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel8-3.delta" sparkle:deltaFrom="3" length="347318" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="oY18cSdEzcd2k5N3pJ5eWRGs5nQvAgL/JZpfCJboIXLAg6AkJvkDTdL/NAv/HH1ZtXuugcucXzdWSSjwPkAXBw=="/>
             </sparkle:deltas>
         </item>
     </channel>
