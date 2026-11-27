@@ -9,7 +9,7 @@
             <sparkle:shortVersionString>2.0</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.1</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-2.0-11.zip" length="4944707" type="application/octet-stream" sparkle:edSignature="O1uT1jvl8Cywp7x88BXstDUSF1eIXkCmPwih/HNc3dZhcxVYliLo0am7Zz7dwSUwS+rwGgz7lShh/kFU8F5vCQ=="/>
+            <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-2.0-11.zip" length="4944707" type="application/octet-stream" sparkle:edSignature="kPtqj/HLFDIUQHSbp5EEeFZl5xt3t9Pc9ZBFvW7d2Dct0Uo0wws7Y0sfuUFPauaPPnAQEXmvniM/RI7Xzs0DDA=="/>
             <sparkle:deltas>
                 <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW11-10.delta" sparkle:deltaFrom="10" length="248178" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="C/jABm/ZLCjEkiZKqcL0+HvIobxOKyh26D/nRzkOYiY7m9M7W0qin+1C6PVfWMCRdkXLajEDz3hfg22VAkUWBw=="/>
                 <enclosure url="https://raw.githubusercontent.com/Ethan285902/arenaduel-updates/main/releases/ArenaDuel-NEW11-9.delta" sparkle:deltaFrom="9" length="314522" type="application/octet-stream" sparkle:deltaFromSparkleExecutableSize="976448" sparkle:deltaFromSparkleLocales="de,he,ar,el,ja,fa,uk" sparkle:edSignature="kDrsMMHDBZNATbeJQblcSD2txc3O2t9uy5NhWRIbwJ851elTFFZa6mbr8UUzP67YkpXVP5AKr97eiDI4V7g/BQ=="/>
